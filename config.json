@@ -1,1 +1,10 @@
-{"site": "https://uakinogo.io/"}
+{
+  "site": "https://uakinogo.io/",
+  "sites": ["https://uakinogo.io/", "https://uakinogo.tv/"],
+  "paths": {
+    "https://uakinogo.tv/": {
+      "/novinki/": "/v1new/", "/anime-serialy/": "/anime/", "/komedija/": "/komedia/", "/prikljuchenija/": "/prikluchenia/",
+      "/fjentezi/": "/fentezi/", "/voennyj/": "/voennye/", "/detskij/": "/detskie/", "/mjuzikl/": "/muzikl/"
+    }
+  }
+}
